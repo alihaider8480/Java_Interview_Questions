@@ -28,4 +28,7 @@ or usko nicha class ko call karonga to waha pa bhi wahi same mehtod hoga without
 
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/c6c350c0-7d26-40f4-a4d0-c03da2677e57)
 //the same method also exists in the ParentClass  
-//it does not override, actually it is method hiding  
+//it does not override static method , actually it is method hiding  
+
+![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/90d17c2d-b454-4706-9b00-0fb6b766f4fe)
+variables dakho aik final hai or aik mehtod ka andaar banaaya hai same name sa error ni daga
