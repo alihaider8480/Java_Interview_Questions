@@ -1,7 +1,9 @@
 # Java_Interview_Questions
 
 Q : Can we override a static method?
-A : no
+A : no 
+//the same method also exists in the ParentClass  
+//it does not override, actually it is method hiding  
 
 
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/f2dab11f-e566-4d91-9349-992e5758d70d)
@@ -24,3 +26,5 @@ or usko nicha class ko call karonga to waha pa bhi wahi same mehtod hoga without
 
 
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/c6c350c0-7d26-40f4-a4d0-c03da2677e57)
+//the same method also exists in the ParentClass  
+//it does not override, actually it is method hiding  
