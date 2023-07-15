@@ -1,6 +1,8 @@
 # Java_Interview_Questions
 
 Q : Can we override a static method?
+A : no
+
 
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/f2dab11f-e566-4d91-9349-992e5758d70d)
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/6584070b-e506-41e1-949e-f687476f354e)
