@@ -21,7 +21,8 @@ A : no
 
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/12a51f14-7a4a-4580-aca5-c2669353942f)
 we canot override final method agar ma extend howi wi wali calls wala method ma final use karonga to kar sakta ho agar ma super class ka anadar final method ko final karoo
-or usko nicha class ko call karonga to waha pa bhi wahi same mehtod hoga without final to error daga
+or usko nicha class ko call karonga to waha pa bhi wahi same mehtod hoga without final to error daga nicha wali picture dakho
+
 
 
 
