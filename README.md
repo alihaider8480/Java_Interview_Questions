@@ -4,6 +4,7 @@ Q : Can we override a static method?
 A : no 
 //the same method also exists in the ParentClass  
 //it does not override, actually it is method hiding  
+#fianl method ko override ni karsakta or agar koi class final hai to usko inherit ni karsakta
 
 
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/f2dab11f-e566-4d91-9349-992e5758d70d)
