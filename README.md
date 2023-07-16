@@ -33,3 +33,8 @@ or usko nicha class ko call karonga to waha pa bhi wahi same mehtod hoga without
 
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/90d17c2d-b454-4706-9b00-0fb6b766f4fe)
 variables dakho aik final hai or aik mehtod ka andaar banaaya hai same name sa error ni daga
+
+
+![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/54d156e3-3ab0-491b-97da-695bdab057e2)
+
+![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/36599536-349d-4d9d-b9a4-7f39c8d1f512)
