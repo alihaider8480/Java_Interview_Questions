@@ -37,4 +37,7 @@ variables dakho aik final hai or aik mehtod ka andaar banaaya hai same name sa e
 
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/54d156e3-3ab0-491b-97da-695bdab057e2)
 
-![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/36599536-349d-4d9d-b9a4-7f39c8d1f512)
+![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/2227feb7-0600-4541-bdb4-f78a8efbbd50)
+![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/0dfbd9f5-2a62-4928-925e-3de7721b99d0)
+
+
