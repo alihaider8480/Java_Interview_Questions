@@ -6,6 +6,9 @@ A : no
 //it does not override, actually it is method hiding  
 #fianl method ko override ni karsakta or agar koi class final hai to usko inherit ni karsakta magar final method ko overload karskta hai
 
+* we can't declare abstract method is private
+* we can't create static method in abstract class
+
 
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/f2dab11f-e566-4d91-9349-992e5758d70d)
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/6584070b-e506-41e1-949e-f687476f354e)
