@@ -12,6 +12,9 @@ A : no
 * Can we overload Java main method? yes we can
 * Can we change return type of main() method in java? A : No
 * Can we declare the main () method as final in Java? A : yes
+* Can we declare an interface as final in java? A : No
+* Can we declare a constructor as private in Java? A : yes
+* Can we override a private or static method in Java A : no
 
 
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/f2dab11f-e566-4d91-9349-992e5758d70d)
