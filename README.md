@@ -8,6 +8,10 @@ A : no
 
 * we can't declare abstract method is private
 * we can't create static method in abstract class
+* we can't create main method without static
+* Can we overload Java main method? yes we can
+* Can we change return type of main() method in java? A : No
+* Can we declare the main () method as final in Java? A : yes
 
 
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/f2dab11f-e566-4d91-9349-992e5758d70d)
