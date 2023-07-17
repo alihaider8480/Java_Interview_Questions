@@ -60,3 +60,6 @@ or sortedSet ma ya hai ka ma insert to karonga ulta sidha lakin store hoga sorte
 ![MicrosoftTeams-image (2)](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/47df779c-554e-4794-becf-3d3e83a0a156)
 
 PALANDROM NUMBER
+
+=============== Comparable(compaire() ) Vs Comparator (compaireTo() , equals)=====
+![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/d71d7f2b-2844-4275-b4c5-9a6cc00b7e13)
