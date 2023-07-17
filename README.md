@@ -53,3 +53,4 @@ variables dakho aik final hai or aik mehtod ka andaar banaaya hai same name sa e
 
 or sortedSet ma ya hai ka ma insert to karonga ulta sidha lakin store hoga sorted order ma or is ma hum heterogenius data ko inseet ni karsakta
 
+![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/013648d2-6dd5-433d-82fd-a2c677ae21c3)
