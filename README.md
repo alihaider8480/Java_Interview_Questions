@@ -4,7 +4,7 @@ Q : Can we override a static method?
 A : no 
 //the same method also exists in the ParentClass  
 //it does not override, actually it is method hiding  
-#fianl method ko override ni karsakta or agar koi class final hai to usko inherit ni karsakta magar final method ko overload karskta hai
+#fianl method ko override ni karsakta or agar koi class final hai to usko inherit ni karsakta magar
 
 * we can't declare abstract method is private
 * we can't create static method in abstract class
