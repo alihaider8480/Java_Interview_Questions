@@ -58,3 +58,5 @@ or sortedSet ma ya hai ka ma insert to karonga ulta sidha lakin store hoga sorte
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/013648d2-6dd5-433d-82fd-a2c677ae21c3)
 
 ![MicrosoftTeams-image (2)](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/47df779c-554e-4794-becf-3d3e83a0a156)
+
+PALANDROM NUMBER
