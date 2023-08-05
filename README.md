@@ -69,3 +69,14 @@ PALANDROM NUMBER
 
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/e2879a91-83bf-4ceb-a316-f17884ccab4a)
 String Equals List MEthod
+
+![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/499c65f1-c618-4f55-beec-48c34475fb57)
+
+RemoveAll() method String List Example 
+![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/084c2e1d-5121-45b5-9721-91280be30c07)
+
+RemoveAll() Method String List Example 2
+
+![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/c57d100a-9656-4e66-a912-690111ffec09)
+
+retainAll() Method String List
