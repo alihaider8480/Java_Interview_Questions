@@ -65,3 +65,7 @@ PALANDROM NUMBER
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/d71d7f2b-2844-4275-b4c5-9a6cc00b7e13)
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/4c1778c1-3337-445b-9e6d-955802e60a5e)
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/57b1fc2d-6981-404c-8276-9ddfc1d4707c)
+
+
+![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/e2879a91-83bf-4ceb-a316-f17884ccab4a)
+String Equals List MEthod
