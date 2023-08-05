@@ -80,3 +80,15 @@ RemoveAll() Method String List Example 2
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/c57d100a-9656-4e66-a912-690111ffec09)
 
 retainAll() Method String List
+
+
+![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/4575e6ed-1515-4336-8817-79e7bc96ec03)
+
+contain method String List
+
+![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/ecd42c79-d71f-44f3-9a35-65b72a8528c1)
+compareList() method String List return boolean
+
+![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/2cee8de0-ff95-43d4-bf6d-e074ca764f99)
+
+stream () filter() method string list
