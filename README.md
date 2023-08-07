@@ -16,6 +16,7 @@ A : no
 * Can we declare a constructor as private in Java? A : yes
 * Can we override a private or static method in Java A : no
 * what is thread safe ? Threads are parts of a process, so they are dependent on each other but each thread executes independently. There is a need for synchronization in threads to avoid unexpected scenarios or problems.
+*  constructor cannot be overridden
 * ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/feb8cd38-152d-489d-a158-d1d078e229d9)
 
 
