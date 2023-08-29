@@ -104,7 +104,10 @@ Narrowing conversion (unboxing)
    double doubleVal = 299.89; =>  long longVal = (long)doubleVal; / 
    long longVal = 878; =>   int intVal = (int) longVal;
 
+
+
 Widening conversion (autoboxing)
+
  int i = 10; => double d = i;
  int i = 5; => floar d = i;
    
