@@ -99,8 +99,12 @@ stream () filter() method string list
 compaire two list and print unique value and dingle value
 
 
-Narrowing conversion
+Narrowing conversion (unboxing)
 
-   double doubleVal = 299.89; =?  long longVal = (long)doubleVal;
+   double doubleVal = 299.89; =>  long longVal = (long)doubleVal; / 
    long longVal = 878; =>   int intVal = (int) longVal;
+
+Widening conversion (autoboxing)
+ int i = 10; => double d = i;
+ int i = 5; => floar d = i;
    
