@@ -97,3 +97,12 @@ stream () filter() method string list
 ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/343f3988-529a-4355-ae4d-de33950d304f)
 
 compaire two list and print unique value and dingle value
+
+
+Narrowing conversion
+   double doubleVal = 299.89;
+   long longVal = (long)doubleVal;
+
+  long longVal = 878;
+  int intVal = (int) longVal;
+   
