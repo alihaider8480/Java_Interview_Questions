@@ -21,7 +21,8 @@ A : no
 *  constructor cannot be overridden
 *  heap and stack ? string pool ? memory managment
 *  marker interface = jis ma koi bhi mehtod na ho iski example serilizeable and callble
-*  functional interaface = is ka andar aik hi absatract method hoga 
+*  functional interaface = is ka andar aik hi absatract method hoga
+*  hum java ma khud ki exception kasa create kar sakta hai 1) try catch sa 2) throw keyword sa or agar method pa koi process karna hai to throws sa
 * ![image](https://github.com/alihaider8480/Java_Interview_Questions/assets/40827670/feb8cd38-152d-489d-a158-d1d078e229d9)
 
 
