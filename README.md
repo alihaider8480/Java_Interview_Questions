@@ -100,9 +100,7 @@ compaire two list and print unique value and dingle value
 
 
 Narrowing conversion
-   double doubleVal = 299.89;
-   long longVal = (long)doubleVal;
 
-  long longVal = 878;
-  int intVal = (int) longVal;
+   double doubleVal = 299.89; =?  long longVal = (long)doubleVal;
+   long longVal = 878; =>   int intVal = (int) longVal;
    
