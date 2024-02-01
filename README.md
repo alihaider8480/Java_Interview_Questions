@@ -1,5 +1,10 @@
 # Java_Interview_Questions
 
+
+socket programming ka lia ya link dakha lo or ya dakha ka khao ka ya javascript pa howa wa tha mana java pa convert kia tha
+https://www.geeksforgeeks.org/socket-programming-in-java/
+https://www.javatpoint.com/socket-programming
+
 Q : Can we override a static method?
 A : no 
 //the same method also exists in the ParentClass  
